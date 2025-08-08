@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [fari] 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)](https://github.com/YOUR_USERNAME)
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
