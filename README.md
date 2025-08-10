@@ -6,7 +6,7 @@
 
 ## About Me
 Software engineer / full-stack developer passionate about building web applications and automation tools. I love learning new technologies and solving problems.
-
+perfect
 ## Skills
 - **Languages:** JavaScript (Node.js), Python, TypeScript, Go  
 - **Frameworks:** React, Next.js, Express, FastAPI  
