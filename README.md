@@ -30,5 +30,5 @@ perfect
 air
 ---
 
-⭐️ *Feel free to check out my repositories and leave a star if you like my work!*
+⭐️ *Feel to check out my repositories and leave a star if you like my work!*
 end
