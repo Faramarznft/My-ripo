@@ -26,7 +26,7 @@ perfect
 ## Connect with Me
 - **Email:** your.email@example.com  
 - **Twitter / X:** [@yourhandle](https://x.com/yourhandle)  
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourprofile)  
+- **LinkedIn:** [mari](https://www.linkedin.com/in/yourprofile)  
 air
 ---
 
