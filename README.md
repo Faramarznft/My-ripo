@@ -12,7 +12,7 @@ perfect
 - **Frameworks:** React, Next.js, Express, FastAPI  
 - **Tools:** Docker, Git, PostgreSQL, Redis, GitHub Actions  
 - **Interests:** Blockchain, distributed systems, CI/CD automation
-
+nice
 ## Featured Projects
 - **[project-one](https://github.com/YOUR_USERNAME/project-one)** — Short description of the project and technologies used.  
 - **[project-two](https://github.com/YOUR_USERNAME/project-two)** — Short description and unique highlight.
