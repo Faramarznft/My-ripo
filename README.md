@@ -3,7 +3,7 @@ welcome
 [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)](https://github.com/YOUR_USERNAME)
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME)
-
+coming soon
 ## About Me
 Software engineer / full-stack developer passionate about building web applications and automation tools. I love learning new technologies and solving problems.
 perfect
