@@ -16,7 +16,7 @@ nice
 ## Featured Projects
 - **[project-one](https://github.com/YOUR_USERNAME/project-one)** — Short description of the project and technologies used.  
 - **[project-two](https://github.com/YOUR_USERNAME/project-two)** — Short description and unique highlight.
-123
+12345
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true)
 321
