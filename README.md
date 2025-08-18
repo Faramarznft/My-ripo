@@ -27,7 +27,7 @@ nice
 - **Email:** your.email@example.com  
 - **Twitter / X:** [@yourhandle](https://x.com/yourhandle)  
 - **LinkedIn:** [mari](https://www.linkedin.com/in/yourprofile)  
-  
+ #@#@ 
 @#@#
 ⭐️ *Feel to check out my repositories and leave a star if you like my work!*
 
