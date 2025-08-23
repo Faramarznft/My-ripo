@@ -28,7 +28,7 @@ nice
 - **Twitter / X:** [@yourhandle](https://x.com/yourhandle)  
 - **LinkedIn:** [mari](https://www.linkedin.com/in/yourprofile)  
  #@#@ 
-good look
+look
 ⭐️ *Feel to check out my repositories and leave a star if you like my work!*
 security
 king
