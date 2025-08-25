@@ -34,3 +34,4 @@ security
 king
 queen
 github
+history
