@@ -35,3 +35,4 @@ king
 queen
 github
 history
+airdrop
