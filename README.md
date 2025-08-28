@@ -36,3 +36,4 @@ queen
 github
 history
 airdrop
+tge
