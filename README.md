@@ -36,7 +36,7 @@ queen
 github
 history
 airdrop
-tge
+
 linea
 onefootball
 t1 protocol
