@@ -36,7 +36,7 @@ queen
 github
 history
 airdrop
-
+june ai
 linea
 onefootball
 t1 protocol
